@@ -1,0 +1,14 @@
+{
+  "name": "factorial-tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "javac CalcTest.java & java CalcTest",
+    "start:server": "javac Server.java & java Server",
+    "start:client": "javac Client.java & java Client"
+  },
+  "keywords": [],
+  "author": "Pratyush Tiwary",
+  "license": "ISC"
+}
