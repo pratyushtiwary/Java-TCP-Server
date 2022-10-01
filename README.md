@@ -4,6 +4,6 @@ This is a simple demo of how tcp server and client can be implented using java, 
 
 ## Scripts
 
-- `yarn test`: Tests utils.Calc method,
+- `yarn test`: Tests utils.Calc,
 - `yarn start:server`,
 - `yarn start:client`
